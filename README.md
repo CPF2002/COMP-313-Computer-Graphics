@@ -9,3 +9,5 @@ Created a model plane in Blender. Had to make sure that all objects were connect
 
 # Project 3
 Used the plane from project 2 for procedural animation. Used key frames to make a flightpath and spin the propeller to make it look like a flight simulation. Set up multiple cameras and edited them to make a video presentation.
+Smokey Animation_ Lingering Smoke Trail and Clouds in Blender 3.3.1.docx is a paper detailing all the work I did on the final project.
+FinalRenderedPlaneFlightVideo.mkv is a video using all 4 cameras placed and rendered from.
